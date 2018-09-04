@@ -1,5 +1,5 @@
 # Jime
-esto es una prueba
+esto es Nati una prueba
 este es mi primer commit
 .
 
